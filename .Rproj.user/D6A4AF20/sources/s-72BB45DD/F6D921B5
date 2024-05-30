@@ -1,0 +1,28 @@
+{
+    "id": "F6D921B5",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1717110428401.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "9a6eec96788440c99ff339fbe17f8472",
+        "name": "java",
+        "title": "java",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 6573604472367445107,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1717110428401,
+    "read_only": false,
+    "read_only_alternatives": []
+}
